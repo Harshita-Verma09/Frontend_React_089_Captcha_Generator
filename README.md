@@ -11,6 +11,7 @@ A simple React + TypeScript application that demonstrates a basic captcha verifi
 
 ## Getting Started
 
+
 ### Prerequisites
 
 - Node.js (v18 or newer recommended)
